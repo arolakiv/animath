@@ -1,3 +1,0 @@
-Animath
-
-Karma's Problem
